@@ -11,3 +11,8 @@ body{
     text-decoration: none;
     color: beige;
 }
+
+.showtext{
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(225, 241, 0, 0.845);
+}
